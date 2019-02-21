@@ -1,0 +1,8 @@
+
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Final	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Final	
+Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Final	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Final	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Shadow	
