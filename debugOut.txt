@@ -6,3 +6,66 @@ Core::GameRun -> Loop Start.
 DxManager::LoadVertexShader -> : Shader Load Error : VS_Final	
 DxManager::LoadVertexShader -> : Shader Load Error : VS_Final	
 DxManager::LoadVertexShader -> : Shader Load Error : VS_Shadow	
+Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
+CameraPos -> 0.000000, 0.000000, -6.000000	
+CameraRot -> 0.000000, -0.000000, 0.000000	
+Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Normal	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Normal	
+Core::GameRun -> Loop Start.	
+CameraPos -> 0.000000, 0.000000, -6.000000	
+CameraRot -> 0.000000, -0.000000, 0.000000	
+CameraPos -> 223.923813, 58.822445, 28.296253	
+CameraRot -> 0.140000, -0.750000, 0.000000	
+Core::GameRun -> Loop Start.	
+CameraPos -> 0.000000, 0.000000, -6.000000	
+CameraRot -> 0.000000, -0.000000, 0.000000	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Particle	
+Core::GameRun -> Loop Start.	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Particle	
+Core::GameRun -> Loop Start.	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Particle	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Normal	
+Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Shadow	
+Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Normal	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Sky	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_OutLine	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_OutLine	
+Core::GameRun -> Loop Start.	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Final	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Normal	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Final	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Final	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Final	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Final	
+Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Sky	
+Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Envi	
+Core::GameRun -> Loop Start.	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Particle	
+Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Shadow	
+Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Sky	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_OutLine	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_OutLine	
+DxManager::LoadVertexShader -> : Shader Load Error : VS_Final	
+Core::GameRun -> Loop Start.	
