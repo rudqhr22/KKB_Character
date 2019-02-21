@@ -1,0 +1,15 @@
+*NUMCHARACTER		1
+
+////////////////////////////////////////////////////////////////////////// 1
+*CHARACTERNAME	Paladin
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\model\Paladin\Paladin_idle.mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\model\Paladin\body.skm		null
+*SKIN_LOWER_BODY_COUNT	3
+*SKIN_LOWER_BODY	..\..\data\model\Paladin\headHet.skm		null
+*SKIN_LOWER_BODY	..\..\data\model\Paladin\leftshild.skm		null
+*SKIN_LOWER_BODY	..\..\data\model\Paladin\rightSword.skm		null

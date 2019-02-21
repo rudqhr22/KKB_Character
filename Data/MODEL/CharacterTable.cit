@@ -1,0 +1,477 @@
+*NUMCHARACTER		35
+
+////////////////////////////////////////////////////////////////////////// 1
+*CHARACTERNAME	Paladin
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  12
+*MATRIXFILENAME		..\..\data\model\Paladin\Paladin_Walk.mat
+*MATRIXFILENAME		..\..\data\model\Paladin\Paladin_Atk.mat
+*MATRIXFILENAME		..\..\data\model\Paladin\Paladin_Atk2.mat
+*MATRIXFILENAME		..\..\data\model\Paladin\Paladin_Atk3.mat
+*MATRIXFILENAME		..\..\data\model\Paladin\Paladin_Back.mat
+*MATRIXFILENAME		..\..\data\model\Paladin\Paladin_Block.mat
+*MATRIXFILENAME		..\..\data\model\Paladin\Paladin_left.mat
+*MATRIXFILENAME		..\..\data\model\Paladin\Paladin_PowerUp.mat
+*MATRIXFILENAME		..\..\data\model\Paladin\Paladin_Right.mat
+*MATRIXFILENAME		..\..\data\model\Paladin\Paladin_Run.mat
+*MATRIXFILENAME		..\..\data\model\Paladin\Paladin_Throw.mat
+*MATRIXFILENAME		..\..\data\model\Paladin\Paladin_idle.mat
+
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\model\Paladin\body.skm		null
+*SKIN_LOWER_BODY_COUNT	3
+*SKIN_LOWER_BODY	..\..\data\model\Paladin\headHet.skm		null
+*SKIN_LOWER_BODY	..\..\data\model\Paladin\leftshild.skm		null
+*SKIN_LOWER_BODY	..\..\data\model\Paladin\rightSword.skm		null
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////2
+*CHARACTERNAME	Archer
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  11
+*MATRIXFILENAME		..\..\data\model\archer\archer_backDive.mat
+*MATRIXFILENAME		..\..\data\model\archer\archer_Throw.mat
+*MATRIXFILENAME		..\..\data\model\archer\archer_Aim_Idle.mat
+*MATRIXFILENAME		..\..\data\model\archer\archer_Aim_Rdy.mat
+*MATRIXFILENAME		..\..\data\model\archer\archer_Aim_Shot.mat
+*MATRIXFILENAME		..\..\data\model\archer\archer_Dive.mat
+*MATRIXFILENAME		..\..\data\model\archer\archer_Walk.mat
+*MATRIXFILENAME		..\..\data\model\archer\archer_Left.mat
+*MATRIXFILENAME		..\..\data\model\archer\archer_Right.mat
+*MATRIXFILENAME		..\..\data\model\archer\archer_Back.mat
+*MATRIXFILENAME		..\..\data\model\archer\archer_Idle.mat
+
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\model\archer\archer.skm	null
+*SKIN_LOWER_BODY_COUNT	0
+
+////////////////////////////////////////////////////////////////////////// 3
+*CHARACTERNAME	Mage
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  10
+*MATRIXFILENAME		..\..\data\model\mage\mage_Atk_One.Mat
+*MATRIXFILENAME		..\..\data\model\mage\mage_Atk_DownUp.Mat
+*MATRIXFILENAME		..\..\data\model\mage\mage_Atk_UpDown.Mat
+*MATRIXFILENAME		..\..\data\model\mage\mage_buff.Mat
+*MATRIXFILENAME		..\..\data\model\mage\mage_back.Mat
+*MATRIXFILENAME		..\..\data\model\mage\mage_right.Mat
+*MATRIXFILENAME		..\..\data\model\mage\mage_left.Mat
+*MATRIXFILENAME		..\..\data\model\mage\mage_Throw.Mat
+*MATRIXFILENAME		..\..\data\model\mage\mage_walk.Mat
+*MATRIXFILENAME		..\..\data\model\mage\mage_idle.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\model\mage\mage.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+
+
+////////////////////////////////////////////////////////////////////////// 4
+*CHARACTERNAME	zombieR
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  6
+*MATRIXFILENAME		..\..\data\model\zombieR\zombieR_shot.Mat
+*MATRIXFILENAME		..\..\data\model\zombieR\zombieR_run.Mat
+*MATRIXFILENAME		..\..\data\model\zombieR\zombieR_crawl.Mat
+*MATRIXFILENAME		..\..\data\model\zombieR\zombieR_atk.Mat
+*MATRIXFILENAME		..\..\data\model\zombieR\zombieR_walk.Mat
+*MATRIXFILENAME		..\..\data\model\zombieR\zombieR_idle.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\model\zombieR\zombieR.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+////////////////////////////////////////////////////////////////////////// 5
+*CHARACTERNAME	zombieEX
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  3
+*MATRIXFILENAME		..\..\data\model\zombieEX\zombieEX_run.Mat
+*MATRIXFILENAME		..\..\data\model\zombieEX\zombieEX_attack.Mat
+*MATRIXFILENAME		..\..\data\model\zombieEX\zombieEX_idle.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\model\zombieEX\zombieEX.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+
+////////////////////////////////////////////////////////////////////////// 6
+*CHARACTERNAME	zombie_king
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  5
+*MATRIXFILENAME			..\..\data\model\zombieKing\ZOMBIE_KING_ROAR.Mat
+*MATRIXFILENAME			..\..\data\model\zombieKing\ZOMBIE_KING_JUMP_ATTACK.Mat
+*MATRIXFILENAME			..\..\data\model\zombieKing\ZOMBIE_KING_ATTACK.Mat
+*MATRIXFILENAME			..\..\data\model\zombieKing\ZOMBIE_KING_WALK.Mat
+*MATRIXFILENAME			..\..\data\model\zombieKing\ZOMBIE_KING_IDLE.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY			..\..\data\model\zombieKing\ZOMBIE_KING.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+*SKIN_LOWER_BODY	
+
+
+//////////////////////////////////////////////////////////////////////////7
+*CHARACTERNAME	ITEM_ARROW
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\model\Arrow\Arrow.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\model\Arrow\Arrow.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+
+
+//////////////////////////////////////////////////////////////////////////8
+*CHARACTERNAME	ITEM_Chicken
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\model\NPC_Chicken\chicken.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY	..\..\data\model\NPC_Chicken\chicken.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+
+//////////////////////////////////////////////////////////////////////////9
+*CHARACTERNAME	ITEM_Dagger
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\model\dagger\dagger.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY	..\..\data\model\dagger\dagger.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+
+
+
+//////////////////////////////////////////////////////////////////////////10
+*CHARACTERNAME	ITEM_Bird
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\model\NPC_bird\NPC_bird.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\model\NPC_bird\NPC_bird.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+
+//////////////////////////////////////////////////////////////////////////11
+*CHARACTERNAME	 ITEM_Bomb
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\model\bomb\bomb.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\model\bomb\bomb.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+//////////////////////////////////////////////////////////////////////////12
+*CHARACTERNAME	 ITEM_Box
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\model\itembox\itembox.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\model\itembox\itembox.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+
+//////////////////////////////////////////////////////////////////////////13
+*CHARACTERNAME	 ITEM_Mine
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\model\mine\mine.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\model\mine\mine.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+
+
+//////////////////////////////////////////////////////////////////////////14
+*CHARACTERNAME	 ITEM_Missile
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\model\missile\missile.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\model\missile\missile.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+//////////////////////////////////////////////////////////////////////////15
+*CHARACTERNAME	 ITEM_Grenade
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\model\grenade\grenade.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\model\grenade\grenade.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+
+//////////////////////////////////////////////////////////////////////////16
+*CHARACTERNAME	 ITEM_BarrelRed
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\Barrel\Barrel.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\Barrel\BarrelRed.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+//////////////////////////////////////////////////////////////////////////17
+*CHARACTERNAME	 MAP_Blacksmith
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\Blacksmith\Blacksmith.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\Blacksmith\Blacksmith.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+//////////////////////////////////////////////////////////////////////////18
+*CHARACTERNAME	 MAP_FOUNTAIN
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\Fountain\fountain.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\Fountain\fountain.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+
+//////////////////////////////////////////////////////////////////////////19
+*CHARACTERNAME	 MAP_Church
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\Church\Church.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\Church\Church.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+
+//////////////////////////////////////////////////////////////////////////20
+*CHARACTERNAME	 MAP_TowerRound
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\TOWER\towerRound.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\TOWER\towerRound.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+
+//////////////////////////////////////////////////////////////////////////21
+*CHARACTERNAME	 MAP_Tower
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\TOWER\tower.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\TOWER\tower.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+//////////////////////////////////////////////////////////////////////////22
+*CHARACTERNAME	 MAP_WALL
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\TOWER\wall.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\TOWER\wall.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+//////////////////////////////////////////////////////////////////////////23
+*CHARACTERNAME	 MAP_WINDMILL
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\WindMill\windmill.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\WindMill\windmill.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+
+//////////////////////////////////////////////////////////////////////////24
+*CHARACTERNAME	 MAP_HOUSE_A
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\HOUSE\houseA.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\HOUSE\houseA.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+//////////////////////////////////////////////////////////////////////////25
+*CHARACTERNAME	 MAP_HOUSE_B
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\HOUSE\houseB.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\HOUSE\houseB.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+//////////////////////////////////////////////////////////////////////////26
+*CHARACTERNAME	 MAP_HOUSE_C
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\HOUSE\houseC.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\HOUSE\houseC.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+//////////////////////////////////////////////////////////////////////////27
+*CHARACTERNAME	 MAP_HOUSE_D
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\HOUSE\houseD.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\HOUSE\houseD.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+//////////////////////////////////////////////////////////////////////////28
+*CHARACTERNAME	 MAP_TREE1
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\TREE\tree.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\TREE\tree.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+//////////////////////////////////////////////////////////////////////////29
+*CHARACTERNAME	 MAP_TREE2
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\TREE\tree2.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\TREE\tree2.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+//////////////////////////////////////////////////////////////////////////30
+*CHARACTERNAME	 MAP_FENCE
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\Fence\Fence.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\Fence\Fence.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+//////////////////////////////////////////////////////////////////////////31
+*CHARACTERNAME	 MAP_Barrel
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\Barrel\Barrel.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\Barrel\Barrel.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+//////////////////////////////////////////////////////////////////////////32
+*CHARACTERNAME	 MAP_Carpet
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\Carpet\Carpet.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\Carpet\Carpet.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+//////////////////////////////////////////////////////////////////////////33
+*CHARACTERNAME	 MAP_Wagon1
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\Wagon\wagon1.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\Wagon\wagon1.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+//////////////////////////////////////////////////////////////////////////34
+*CHARACTERNAME	 MAP_Wagon2
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\Wagon\wagon2.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\Wagon\wagon2.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+
+//////////////////////////////////////////////////////////////////////////35
+*CHARACTERNAME	 MAP_Sack
+*SHADERFILENMAE		..\..\data\model\Character.hlsl
+
+*MATRIXMATRIXCOUNT  1
+*MATRIXFILENAME		..\..\data\MAPOBJ\Sack\Sack.Mat
+
+*SKIN_UPPER_BODY_COUNT	1
+*SKIN_UPPER_BODY		..\..\data\MAPOBJ\Sack\Sack.skm		null
+*SKIN_LOWER_BODY_COUNT	0
+
+
+
+//////////////////////////////////////////////////////////////////////////
+// 캐릭터이름   
+// 0=상체				=> SKIN_UPPER_BODY
+// 1=하체				=> SKIN_LOWER_BODY
+// 2=팔					=> SKIN_ARM
+// 3=손( 장갑 )			=> SKIM_HAND
+// 4=발( 장화 )			=> SKIN_FOOT
+// 5=얼굴( 마스크 )		=> SKIN_FACE
+// 6=헤어( 모자 )		=> SKIN_HAIR
+// 7=무기류				=> SKIN_SEAPON
+// 8=방어류				=> SKIN_DEFENSE
+// 9=기타				=> SKIN_ETCETERA
+//struct CharacterTable
+//{
+//	char strName[32];
+//  char strShader[64];
+//	char strMatrix[32];
+//	char strTable[10][32];
+//}
+
+
