@@ -26,8 +26,6 @@
     <ClCompile Include="ADxHelperEx.cpp" />
     <ClCompile Include="AHeroObj.cpp" />
     <ClCompile Include="ALoadToken.cpp" />
-    <ClCompile Include="AMapMgr.cpp" />
-    <ClCompile Include="AMapObj.cpp" />
     <ClCompile Include="AMesh.cpp" />
     <ClCompile Include="AModel.cpp" />
     <ClCompile Include="AModelObj.cpp" />
@@ -48,8 +46,6 @@
     <ClInclude Include="ADxStd.h" />
     <ClInclude Include="AHeroObj.h" />
     <ClInclude Include="ALoadToken.h" />
-    <ClInclude Include="AMapMgr.h" />
-    <ClInclude Include="AMapObj.h" />
     <ClInclude Include="AMesh.h" />
     <ClInclude Include="AModel.h" />
     <ClInclude Include="AModelObj.h" />

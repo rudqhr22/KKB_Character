@@ -13,9 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="MAP">
-      <UniqueIdentifier>{18c2c928-d0b0-4faf-aab6-18cb0b2fde3d}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ADxHelperEx.cpp">
@@ -56,12 +53,6 @@
     </ClCompile>
     <ClCompile Include="ACharMgr.cpp">
       <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="AMapObj.cpp">
-      <Filter>MAP</Filter>
-    </ClCompile>
-    <ClCompile Include="AMapMgr.cpp">
-      <Filter>MAP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -124,12 +115,6 @@
     </ClInclude>
     <ClInclude Include="_ActionList.h">
       <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="AMapObj.h">
-      <Filter>MAP</Filter>
-    </ClInclude>
-    <ClInclude Include="AMapMgr.h">
-      <Filter>MAP</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
