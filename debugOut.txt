@@ -71,3 +71,4 @@ DxManager::LoadVertexShader -> : Shader Load Error : VS_Final
 Core::GameRun -> Loop Start.	
 Core::GameRun -> Loop Start.	
 Core::GameRun -> Loop Start.	
+Core::GameRun -> Loop Start.	
