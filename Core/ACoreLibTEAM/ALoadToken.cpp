@@ -21,7 +21,6 @@ bool ALoadToken::LoadBuffer(const TCHAR* strFileName)
 {
 
 	LARGE_INTEGER FileSize;
-	//파일 오픈!!!
 
 
 	CutDirName(strFileName);
@@ -31,11 +30,11 @@ bool ALoadToken::LoadBuffer(const TCHAR* strFileName)
 
 	if (m_hHandle == NULL) return false;
 
-	GetFileSizeEx(m_hHandle, &FileSize);	//총 읽은 파일 사이트 확인
+	GetFileSizeEx(m_hHandle, &FileSize);				//총 읽은 파일 사이트 확인
 
 	m_pmbStaticMeshData = new char[FileSize.LowPart];	//사이즈 만큼 멀티바이트를 할당
 
-	DWORD dwBytesRead;	//얼만큼 읽었는지, ㅁㅏ지막이 비동기 인듯
+	DWORD dwBytesRead;
 	if (ReadFile(m_hHandle, m_pmbStaticMeshData, FileSize.LowPart, &dwBytesRead, NULL) == FALSE)	//리드파일에 따라서 비동기로 사용 할수 있다.
 	{
 		delete[] m_pmbStaticMeshData;
@@ -44,7 +43,7 @@ bool ALoadToken::LoadBuffer(const TCHAR* strFileName)
 	}
 	
 
-	//밑 작업은 멀티 바이트 데이터를 유니코드로 ////카피 구지 안해도 된다????????
+
 	m_pwcStaticMeshData = new TCHAR[FileSize.LowPart];
 
 	TCHAR* szMeshData = NULL;
