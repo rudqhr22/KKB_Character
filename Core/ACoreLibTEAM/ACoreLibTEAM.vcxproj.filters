@@ -101,9 +101,6 @@
     <ClInclude Include="ABoneObj.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="ACamera.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
     <ClInclude Include="ACharacter.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>

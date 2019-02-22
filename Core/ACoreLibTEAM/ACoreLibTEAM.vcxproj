@@ -37,7 +37,6 @@
     <ClInclude Include="AAseObjStd.h" />
     <ClInclude Include="ABaseObj.h" />
     <ClInclude Include="ABoneObj.h" />
-    <ClInclude Include="ACamera.h" />
     <ClInclude Include="ACharacter.h" />
     <ClInclude Include="ACharacterLoader.h" />
     <ClInclude Include="ACharMgr.h" />
